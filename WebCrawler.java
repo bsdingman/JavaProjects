@@ -1,6 +1,5 @@
 /*
     Bryan Dingman
-    Lab 3 
     Web crawl through urls and grab the most common words
     LOGIC:
         Check if file exists, remove
@@ -37,7 +36,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 
-public class Dingman_lab3 
+public class WebCrawler
 {
     public static void main(String[] args) 
     {

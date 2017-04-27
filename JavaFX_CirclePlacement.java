@@ -1,9 +1,7 @@
 /*
     Bryan Dingman
-    Lab 7a1
     Place a circle where the user clicks and remove it if they right click
 */
-package lab7;
 
 import java.util.ArrayList;
 import javafx.application.Application;
@@ -13,7 +11,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-public class dingman_lab7a1 extends Application
+public class JavaFX_CirclePlacement extends Application
 {
     @Override // Override the start method in the Application class
     public void start(Stage primaryStage) 

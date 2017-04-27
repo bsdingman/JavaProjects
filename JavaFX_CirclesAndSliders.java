@@ -1,10 +1,8 @@
 /*
     Bryan Dingman
-    Lab 7B part 1
     Display a circle and sliders to control the color and opacity of said circle. Updating automatically
 */
 
-package lab7;
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
@@ -19,7 +17,7 @@ import javafx.scene.shape.Circle;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class dingman_lab7b1 extends Application
+public class JavaFX_CirclesAndSliders extends Application
 {
     @Override // Override the start method in the Application class
     public void start(Stage primaryStage) 

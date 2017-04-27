@@ -1,10 +1,8 @@
 /*
     Bryan Dingman
-    Lab 7a2
     Create a program that allows the user to draw lines on the screen using their arrow keys. 
     It's a JavaFX Etch-A-Sketch!
 */
-package lab7;
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
@@ -17,7 +15,7 @@ import javafx.scene.shape.MoveTo;
 import javafx.scene.shape.Path;
 import javafx.stage.Stage;
 
-public class dingman_lab7a2 extends Application
+public class JavaFX_Etch-A-Sketch extends Application
 {  
     // Declare our inital x and y starting points
     private int x = 150;

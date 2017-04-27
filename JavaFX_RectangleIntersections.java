@@ -1,10 +1,8 @@
 /*
     Bryan Dingman
-    Lab 7b part 2
     Create two user defined sized rectangles and display if they are intersecting
 */
 
-package lab7;
 
 import java.util.ArrayList;
 import javafx.application.Application;
@@ -20,7 +18,7 @@ import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class dingman_lab7b2 extends Application
+public class JavaFX_RectangleIntersections extends Application
 {
     private TextField tfRec1X = new TextField();
     private TextField tfRec1Y = new TextField();
